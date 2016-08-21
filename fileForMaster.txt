@@ -1,3 +1,4 @@
 Add conflicts in master
+Add text for Conflict
 
 File for master branch
