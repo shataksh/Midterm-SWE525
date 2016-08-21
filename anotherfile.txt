@@ -1,4 +1,4 @@
-Add another file
+Add another file - MErge conflict Scenario from feature1
 
 Question 8. Check git status
 
