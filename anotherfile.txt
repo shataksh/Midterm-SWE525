@@ -1,4 +1,4 @@
-Add another file
+Add another file - Create merge conflict scenario
 
 Question 8. Check git status
 
